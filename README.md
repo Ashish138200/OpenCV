@@ -1,5 +1,5 @@
 # OpenCV
-![image](https://drive.google.com/uc?export=view&id=1fdeX9QP6yaXk68qPstHdB4aHen7R5XE1)
+![image](https://drive.google.com/uc?export=view&id=1fdeX9QP6yaXk68qPstHdB4aHen7R5XE1)<br/>
 ![Alt Text](https://img.shields.io/badge/Python-3.7.4-red) <br/>
 ### Installing the library
 
