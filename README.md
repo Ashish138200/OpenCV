@@ -6,7 +6,7 @@
 If you haven't installed OpenCV yet, please do so by following the instructions below.  If you don't know if you have OpenCV, please open Python and type import cv2. If you don't get an error, it means OpenCV is installed.
 
 #### To install:
-1. Open the command line and type:
+1. Open the command line and type
 ```bash
 pip install opencv-python 
 ```
